@@ -14,7 +14,7 @@ if sys.argv[-1] in ("submit", "publish"):
 from uritemplate import __version__
 
 setup(
-    name="uritemplate.py",
+    name="uritemplate",
     version=__version__,
     description='URI templates',
     long_description="\n\n".join([open("README.rst").read(),
