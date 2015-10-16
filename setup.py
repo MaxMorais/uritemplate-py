@@ -3,7 +3,7 @@
 from distutils.core import setup
 import uritemplate
 
-base_url = "http://github.com/uri-templates/uritemplate-py/"
+base_url = "https://github.com/uri-templates/uritemplate-py/"
 
 setup(
   name = 'uritemplate',
